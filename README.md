@@ -67,4 +67,4 @@
 
 Δείτε την παρουσίαση του έργου μας: https://youtu.be/5FwTTeoXGyY
 
-Θα βρείτε τη σελίδα του έργου μας: 
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2026/robotakia-dequeues-exipno-sistima-dinamikis-diachirisis-rois-plithous/
